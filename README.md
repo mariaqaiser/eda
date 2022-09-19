@@ -1,4 +1,4 @@
-# eda
+# EDA Task (Sept, 2022 - SPARK)
 Task Submission for SPARK GRIP - Data Science Task #3 - Retail Dataset - Exploratory Data Analysis
 
 Here I have created the analysis model of a Super market datasheet given by the company and have deployed the parameters successfully.
